@@ -1,0 +1,11 @@
+Stock,Test,F,p
+AAPL,CAPM vs FF3,7.438,0.0009
+AAPL,FF3 vs Carhart (MOM added),0.376,0.5407
+AVGO,CAPM vs FF3,4.052,0.0197
+AVGO,FF3 vs Carhart (MOM added),0.001,0.9733
+MSFT,CAPM vs FF3,25.668,0.0
+MSFT,FF3 vs Carhart (MOM added),3.703,0.0566
+NVDA,CAPM vs FF3,9.851,0.0001
+NVDA,FF3 vs Carhart (MOM added),0.037,0.8482
+ORCL,CAPM vs FF3,8.332,0.0004
+ORCL,FF3 vs Carhart (MOM added),0.093,0.7605
